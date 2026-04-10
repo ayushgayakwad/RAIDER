@@ -7,6 +7,13 @@ Instead of hard-coded scripts, RAIDER uses a Q-Learning "Commander" to decide *w
 
 ---
 
+## Project Report
+
+Full project report available here:  
+[View Report](https://github.com/ayushgayakwad/RAIDER/blob/main/RAIDER%20-%20Project%20Report.pdf)
+
+---
+
 ## Dashboard Preview
 
 ![RAIDER Dashboard](figures/assets/RAIDER%20Dashboard.jpg)
